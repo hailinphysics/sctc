@@ -171,4 +171,4 @@ plot.save('./results/gene_space.png')
 
 ## Tutorials
 
-For more examples, please refer to the [tutorials](https://github.com/hailinphysics/sctc/tutorials).This repository contains sample code for using SCTC in single-cell transcriptomic analysis.
+For more examples, please refer to the [tutorials](https://github.com/hailinphysics/sctc/tree/main/tutorials)
