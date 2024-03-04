@@ -155,7 +155,7 @@ plt.savefig('./results/ranking.png')
 
 # Selecting a subset of genes for visualization
 selected_indices = np.random.choice(adata.n_vars, 1500, replace=False)
-adata = adata[:, selected_indices]
+adata = adata[:, selected_indices].copy()
 
 # Creating a gene space network
 gene_proxim = sctc.gene_proximity(adata.X)
