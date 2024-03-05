@@ -54,7 +54,7 @@ ax.set_xlabel('N')
 ax.set_ylabel('Index')
 plt.savefig('./results/ranking.png')
 
-# Selecting a subset of genes for visualization of gene space
+# Selecting a subset of genes for visualizing gene space
 selected_indices = np.random.choice(adata.n_vars, 1351, replace=False)
 adata = adata[:, selected_indices].copy()
 
