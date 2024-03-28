@@ -49,8 +49,8 @@ kc, kg = sctc.complexity_order(mcg, nmax=30)
 
 #### Output
 
-- `kc`: CCI for each cell (normalized between 0 and 1).
-- `kg`: GCI for each gene (normalized between 0 and 1).
+- `kc`: Nth-complexity for each cell with N range from 0 to nmax (normalized between 0 and 1).
+- `kg`: Nth-complexity for each gene with N range from 0 to nmax (normalized between 0 and 1).
 
 ### 3. Complexity Ranking
 
