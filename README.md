@@ -14,7 +14,7 @@ pip install sctc
 
 ### 1. Complexity Index
 
-The `complexity_index` function computes the complexity index (CCI) and gene contribution index (GCI) for a given single-cell transcriptome dataset.
+The `complexity_index` function computes the Cell Complexity Index (CCI) and Gene Complexity Index (GCI) for a given single-cell transcriptome dataset.
 
 #### Usage
 
