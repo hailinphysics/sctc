@@ -1,4 +1,4 @@
-# SCTC: Single-Cell Transcriptome Complexity
+# SCTC: Single-Cell Transcriptional Complexity
 
 The **SCTC** Python package provides tools for calculating Single-Cell Transcriptome Complexity (SCTC) from scRNA-seq data. This metric helps to characterize cell developmental potential and infer single-cell pseudotime.
 
