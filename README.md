@@ -173,6 +173,6 @@ plot.save('./results/gene_space.png')
 
 For more examples, please refer to the [tutorials](https://github.com/hailinphysics/sctc/tree/main/tutorials)
 
-## Cite
+## Citation
 
-Hai Lin, Huan Hu, Zhen Feng, Fei Xu, Jie Lyu, Xiang Li, Liyu Liu, Gen Yang, Jianwei Shuai, SCTC: inference of developmental potential from single-cell transcriptional complexity, Nucleic Acids Research, 2024;, gkae340, https://doi.org/10.1093/nar/gkae340.
+Hai Lin, Huan Hu, Zhen Feng, Fei Xu, Jie Lyu, Xiang Li, Liyu Liu, Gen Yang, Jianwei Shuai, SCTC: inference of developmental potential from single-cell transcriptional complexity, Nucleic Acids Research, Volume 52, Issue 11, 24 June 2024, Pages 6114–6128, https://doi.org/10.1093/nar/gkae340
